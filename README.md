@@ -1,4 +1,9 @@
 # 🗂️ JSanturArchivo_MPT
+
+<p align="center">
+  <img src="bannerJSArchivo.png" alt="Banner JSanturArchivo_MPT" width="100%">
+</p>
+
 ### Sistema Inteligente de Consulta y Gestión Documental — MPT
 
 <p align="center">
@@ -7,17 +12,17 @@
 
 <p align="center">
   <a href="https://script.google.com/macros/s/AKfycbwUzlFc2fmpf_smxa_ceQGIBeMKmNYC4YU25gBP2LdW8w42AVRiESq4ohKhVDAdWFtNuA/exec">
-    🚀 **ABRIR JSanturArchivo_MPT**
+    🚀 <strong>ABRIR JSanturArchivo_MPT</strong>
   </a>
 </p>
 
 <p align="center">
-  ![Aplicación Web](https://img.shields.io/badge/Aplicación-Web-blue)
-  ![Google Apps Script](https://img.shields.io/badge/Google-Apps%20Script-orange)
-  ![Google Sheets](https://img.shields.io/badge/Google-Sheets-green)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
-  ![Responsive](https://img.shields.io/badge/Responsive-Mobile-purple)
-  ![JSANTUR](https://img.shields.io/badge/Developer-JSANTUR-black)
+  <img src="https://img.shields.io/badge/Aplicación-Web-blue" alt="Aplicación Web">
+  <img src="https://img.shields.io/badge/Google-Apps%20Script-orange" alt="Google Apps Script">
+  <img src="https://img.shields.io/badge/Google-Sheets-green" alt="Google Sheets">
+  <img src="https://img.shields.io/badge/JavaScript-ES6-yellow" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Responsive-Mobile-purple" alt="Responsive">
+  <img src="https://img.shields.io/badge/Developer-JSANTUR-black" alt="JSANTUR">
 </p>
 
 ---
