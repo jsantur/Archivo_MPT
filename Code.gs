@@ -24,7 +24,11 @@ const SHEET_CONFIG = [
   { name: 'DECRETOS',         label: 'Decretos de Alcaldía',     headerRow: 1, dataStartRow: 2 },
   { name: 'RES. ALCALDIA',    label: 'Resolución de Alcaldía',   headerRow: 2, dataStartRow: 3 },
   { name: 'CONST.POSESION',   label: 'Constancias de Posesión',  headerRow: 1, dataStartRow: 2 },
-  { name: 'RES MUNIC',        label: 'Resolución Municipal',     headerRow: 2, dataStartRow: 3 }
+  { name: 'RES MUNIC',        label: 'Resolución Municipal',     headerRow: 2, dataStartRow: 3 },
+  { name: 'CONST.POS.EN.ELEC',        label: 'Constancias de Posesión Eléctrico',     headerRow: 1, dataStartRow: 2 },
+  { name: 'BUNGALO',        label: 'Bungalo',     headerRow: 1, dataStartRow: 2 }
+
+  
 ];
 
 /** Punto de entrada de la aplicación web. */
