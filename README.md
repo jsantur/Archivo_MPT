@@ -4,7 +4,7 @@
   <img src="bannerJSArchivo.png" alt="Banner JSanturArchivo_MPT" width="100%">
 </p>
 
-### Sistema Inteligente de Consulta y Gestión Documental — MPT
+### Sistema Inteligente de Consulta y Gestión Documental — MPT_
 
 <p align="center">
   <strong>Plataforma de consulta documental del Archivo Institucional</strong>
