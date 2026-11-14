@@ -337,5 +337,5 @@ Software desarrollado para fines de consulta, localización y apoyo a la gestió
 </p>
 
 <p align="center">
-  Desarrollado por <strong>JSANTUR</strong>
+  Desarrollado por: <strong>JSANTUR</strong>
 </p>
