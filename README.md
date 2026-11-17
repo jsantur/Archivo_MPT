@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://script.google.com/macros/s/AKfycbwUzlFc2fmpf_smxa_ceQGIBeMKmNYC4YU25gBP2LdW8w42AVRiESq4ohKhVDAdWFtNuA/exec">
+  <a href="https://script.google.com/macros/s/AKfycbxCFECE5G56YLbWq68LHomNYs_WZzXRF-DQd2KlMlKXv9vwxE5vMwotTXkjnrvNyCn4XQ/exec">
     🚀 <strong>ABRIR JSanturArchivo_MPT</strong>
   </a>
 </p>
@@ -264,7 +264,7 @@ Toda respuesta oficial debe validarse con la documentación correspondiente en e
 
 **Aplicación desplegada:**
 
-[🚀 Acceder a JSanturArchivo_MPT](https://script.google.com/macros/s/AKfycbwUzlFc2fmpf_smxa_ceQGIBeMKmNYC4YU25gBP2LdW8w42AVRiESq4ohKhVDAdWFtNuA/exec)
+[🚀 Acceder a JSanturArchivo_MPT](https://script.google.com/macros/s/AKfycbxCFECE5G56YLbWq68LHomNYs_WZzXRF-DQd2KlMlKXv9vwxE5vMwotTXkjnrvNyCn4XQ/exec)
 
 ## 👨‍💻 Desarrollo
 
